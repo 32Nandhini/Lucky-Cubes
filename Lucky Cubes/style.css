@@ -1,41 +1,31 @@
 .container {
-    text-align: center;
-  }
-  
-  .dice {
-    text-align: center;
-    display: inline-block;
-  }
-  
-  body {
-    background-color: lightseagreen;
-  }
-  
-  h1 {
-    margin: 30px;
-    text-shadow: 5px red;
-    font-size: 8rem;
-    color: #e60b0b;
-    font-family: "Playwrite GB S", cursive;
-    font-optical-sizing: auto;
-    font-style: normal;
-  }
-  
-  p {
-    font-size: 2rem;
-    color: red;
-    font-family: "Playwrite GB S", cursive;
-    font-optical-sizing: auto;
-    font-style: normal;
-  }
-  
-  /* h2 {
-    margin-top: 5%;
-    color: red;
-    text-align: center;
-    font-family: "Indie Flower", cursive;
-    font-family: "Playwrite GB S", cursive;
-    font-optical-sizing: auto;
-    font-style: normal;
-  } */
-  
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  /* Remove the background color from here if you want it to be controlled by JavaScript */
+  /* background-color: lightseagreen; */
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px red;
+  font-size: 8rem;
+  color: #e60b0b;
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+p {
+  font-size: 2rem;
+  color: red;
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
